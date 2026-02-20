@@ -1,20 +1,6 @@
-#### HAPPY PRIDE MONTH
-### An AI Blocklist in host format made with love by laylavish
-
-# Home Project: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
-# Feel free to submit a pull request if you find more sites!
-# Thank you for all the stars, but the real star is you!
-
-### Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
-
-# I love you.
-# You are valid.
-# LGBTQ+ Rights!
-# Keep your chin up--we will get through this together <33
-# Have a happy day!
-
 
 # [.ai sites]
+0.0.0.0 gemini.google.com
 0.0.0.0 forkful.ai
 0.0.0.0 cgdream.ai
 0.0.0.0 tryleap.ai
@@ -2298,6 +2284,7 @@
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
+
 
 
 
